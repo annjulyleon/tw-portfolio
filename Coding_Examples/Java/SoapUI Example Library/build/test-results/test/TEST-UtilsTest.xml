@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-31T06:18:41" hostname="NB-LEONOVA" time="0.198">
+  <properties/>
+  <testcase name="String sorting" classname="UtilsTest" time="0.138"/>
+  <testcase name="Random from array" classname="UtilsTest" time="0.017"/>
+  <testcase name="Transliteration" classname="UtilsTest" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
